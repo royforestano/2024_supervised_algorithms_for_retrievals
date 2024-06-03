@@ -1,1 +1,4 @@
-# 2024_supervised_algorithms_for_retrievals
+# 2024 Supervised Algorithms for Retrievals
+
+Based on the publication:
+
