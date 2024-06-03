@@ -1,4 +1,4 @@
 # 2024 Supervised Algorithms for Retrievals
 
-Based on the publication:
+Based on the publication: TBA
 
